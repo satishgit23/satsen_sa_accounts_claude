@@ -1,0 +1,57 @@
+[
+  {
+    "channel_name": "deal-support",
+    "channel_id": "C0SAMPLE04",
+    "message_text": "Need technical validation for MegaCorp's Unity Catalog migration. They want to consolidate 3 workspaces.",
+    "user_id": "U0SAMPLE04",
+    "user_name": "Carlos Rivera",
+    "timestamp": "2026-03-27T15:13:05.140527+00:00",
+    "ts": "1774624385.140527",
+    "thread_ts": null,
+    "reply_count": 2
+  },
+  {
+    "channel_name": "customer-escalations",
+    "channel_id": "C0SAMPLE03",
+    "message_text": "DataFlow Inc is hitting performance issues on their ETL pipeline. Filed ES ticket ES-987654. Working with support.",
+    "user_id": "U0SAMPLE01",
+    "user_name": "Jane Smith",
+    "timestamp": "2026-03-27T11:13:05.140527+00:00",
+    "ts": "1774609985.140527",
+    "thread_ts": null,
+    "reply_count": 5
+  },
+  {
+    "channel_name": "strategic-accounts",
+    "channel_id": "C0SAMPLE02",
+    "message_text": "QBR with GlobalTech scheduled for next Thursday. Need to prep the consumption dashboard.",
+    "user_id": "U0SAMPLE03",
+    "user_name": "Alice Chen",
+    "timestamp": "2026-03-26T14:13:05.140527+00:00",
+    "ts": "1774534385.140527",
+    "thread_ts": null,
+    "reply_count": 1
+  },
+  {
+    "channel_name": "sa-accounts-west",
+    "channel_id": "C0SAMPLE01",
+    "message_text": "Great news! What's the expected DBU consumption for Acme?",
+    "user_id": "U0SAMPLE02",
+    "user_name": "Bob Johnson",
+    "timestamp": "2026-03-25T17:13:05.140527+00:00",
+    "ts": "1774458785.140527",
+    "thread_ts": "1774455185.140527",
+    "reply_count": 0
+  },
+  {
+    "channel_name": "sa-accounts-west",
+    "channel_id": "C0SAMPLE01",
+    "message_text": "Update on Acme Corp: they're moving to production next week with the lakehouse platform. POC completed successfully.",
+    "user_id": "U0SAMPLE01",
+    "user_name": "Jane Smith",
+    "timestamp": "2026-03-25T16:13:05.140527+00:00",
+    "ts": "1774455185.140527",
+    "thread_ts": null,
+    "reply_count": 3
+  }
+]
