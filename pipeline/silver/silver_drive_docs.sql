@@ -3,6 +3,8 @@
 -- MAGIC # Silver: Google Drive Documents
 -- MAGIC Document summaries and action items by customer
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW silver_drive_docs
 AS
 SELECT

@@ -3,6 +3,8 @@
 -- MAGIC # Gold: Open Items Tracker
 -- MAGIC All pending/open items across all sources
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW gold_open_items_tracker
 AS
 

@@ -3,6 +3,8 @@
 -- MAGIC # Silver: Google Calendar Events
 -- MAGIC Standardized events with attendees and account linkage
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW silver_calendar_events
 AS
 SELECT

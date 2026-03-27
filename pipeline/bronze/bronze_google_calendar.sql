@@ -3,6 +3,8 @@
 -- MAGIC # Bronze: Google Calendar Events
 -- MAGIC Raw ingestion from landing volume
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW bronze_google_calendar
 AS
 SELECT

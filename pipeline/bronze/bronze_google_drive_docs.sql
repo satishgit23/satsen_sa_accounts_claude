@@ -3,6 +3,8 @@
 -- MAGIC # Bronze: Google Drive Documents
 -- MAGIC Raw ingestion from landing volume
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW bronze_google_drive_docs
 AS
 SELECT

@@ -3,6 +3,8 @@
 -- MAGIC # Silver: Salesforce Use Cases
 -- MAGIC Cleaned use cases joined with account names
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW silver_usecases
 AS
 SELECT

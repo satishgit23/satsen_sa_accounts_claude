@@ -3,6 +3,8 @@
 -- MAGIC # Bronze: Slack Messages
 -- MAGIC Raw ingestion from landing volume
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW bronze_slack_messages
 AS
 SELECT

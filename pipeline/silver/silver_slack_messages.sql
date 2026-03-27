@@ -3,6 +3,8 @@
 -- MAGIC # Silver: Slack Messages
 -- MAGIC Cleaned messages linked to accounts
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW silver_slack_messages
 AS
 SELECT

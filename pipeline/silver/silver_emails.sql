@@ -3,6 +3,8 @@
 -- MAGIC # Silver: Gmail Emails
 -- MAGIC Parsed emails with open/pending item identification
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW silver_emails
 AS
 SELECT

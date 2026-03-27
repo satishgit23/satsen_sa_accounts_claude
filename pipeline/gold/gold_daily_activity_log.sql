@@ -3,6 +3,8 @@
 -- MAGIC # Gold: Daily Activity Log
 -- MAGIC Time-ordered log of all activities across all sources
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW gold_daily_activity_log
 AS
 

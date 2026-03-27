@@ -3,6 +3,8 @@
 -- MAGIC # Bronze: Salesforce Accounts
 -- MAGIC Raw ingestion from landing volume
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW bronze_salesforce_accounts
 AS
 SELECT

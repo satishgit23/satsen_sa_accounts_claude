@@ -3,6 +3,8 @@
 -- MAGIC # Gold: Account Activity Summary
 -- MAGIC Aggregated activity per account across all data sources
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW gold_account_activity_summary
 AS
 WITH account_base AS (

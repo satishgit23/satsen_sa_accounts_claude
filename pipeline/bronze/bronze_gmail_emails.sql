@@ -3,6 +3,8 @@
 -- MAGIC # Bronze: Gmail Emails
 -- MAGIC Raw ingestion from landing volume
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW bronze_gmail_emails
 AS
 SELECT

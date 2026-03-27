@@ -3,6 +3,8 @@
 -- MAGIC # Silver: Salesforce Accounts
 -- MAGIC Cleaned and standardized account data
 
+-- COMMAND ----------
+
 CREATE OR REFRESH MATERIALIZED VIEW silver_accounts
 AS
 SELECT
